@@ -20,3 +20,9 @@
 <p>Let's now look at the users within the enterprise. In the picture, you can see all users and the departments they're in. </p>
 <img width="893" height="630" alt="2" src="https://github.com/user-attachments/assets/e5f84370-d339-45b5-86b6-e130943c8016" />
 
+<h2>Managing Users in AD</h2>
+
+<p>One of the cool things you can do in AD is to give specific users control over some OUs. The process is called delegation, and it allows you to grant users specific privileges to perform advanced tasks on OUs without needing a domain administrator to step in. </p>
+<p>In the image, I added Christine to the delegation group and now I can give her permissions nobody else can have.</p>
+<img width="890" height="621" alt="3" src="https://github.com/user-attachments/assets/fe2c9719-7935-4d1e-b189-5f593f01c12c" />
+<img width="731" height="447" alt="4" src="https://github.com/user-attachments/assets/9875f6ef-ee5b-4d9f-bf29-bbf8a21cf5ef" />
